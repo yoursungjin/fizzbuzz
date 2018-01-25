@@ -10,5 +10,5 @@ This project hosts each fizzbuzz variant in separate repository branches.
 | [fizzbuzz-android](https://github.com/yoursungjin/fizzbuzz/tree/fizzbuzz-android) | Built on Android |
 
 
-### Author
+## Author
 Sungjin Lee.
