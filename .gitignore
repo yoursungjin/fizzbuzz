@@ -1,0 +1,13 @@
+
+# Eclipse 
+.classpath
+.project
+.settings/
+bin/
+
+# Gradle
+.gradle/
+build/
+
+# OSX
+.DS_Store
