@@ -21,6 +21,6 @@ System.out.println(fb.fizzBuzzWithRangeWithCountInfo(1, 20)));
 You can see the full test cases at com.yoursungjin.fizzbuzz.FizzBuzzTest. </br>
 JUnit 4 was used.
 
-### Author
+## Author
 Sungjin Lee.
 
